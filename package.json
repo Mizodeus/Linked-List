@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/Mizodeus/Linked-List/issues"
   },
-  "homepage": "https://github.com/Mizodeus/Linked-List#readme"
+  "homepage": "https://github.com/Mizodeus/Linked-List#readme",
+  "devDependencies": {
+    "@babel/core": "^8.0.9",
+    "@babel/preset-env": "^8.0.7",
+    "babel-jest": "^30.5.2",
+    "jest": "^30.5.2"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.6.0": true,
+    "unrs-resolver@1.12.2": true
+  }
 }
